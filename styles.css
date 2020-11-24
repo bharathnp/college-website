@@ -1,0 +1,71 @@
+.flex-cont {
+    display: flex;
+    flex-direction: row;
+}
+
+html,
+body {
+    min-height: 100vh !important;
+    
+}
+
+.text-center {
+    background-color:#fff;
+   
+    
+}
+
+.form-group {
+    color:#3b6978;
+
+    
+}
+.text-center {
+    
+    font-size: 16px;
+    padding-top: 40px;
+    background-color:#dce775;
+   padding: 20px;
+}
+
+
+
+.bg-color{
+    
+    background-color:#dce775;
+}
+
+.home-content p{
+    text-align: justify;
+  
+}
+.space {
+    padding-top: 13px;
+}
+.text-white {
+   
+    text-align: right;
+    
+}
+.text {
+    font-size: large;
+    font-weight: bold;
+}
+.today{
+    padding-bottom: 70px;
+    margin-left: 40px;
+    margin-bottom:70px;
+   
+}
+.container text-center my-5 pt-5 {
+    padding-bottom: 200px;
+}
+.top {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.col-sm {
+    padding: 10px;
+}
+
+
